@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "▶️ Run AI Ticket Classifier (Local Web App)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "🌐 Run Hugging Face Gradio App",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/huggingface_space/app.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/huggingface_space"
+    },
+    {
+      "name": "⚡ Run Server Directly",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/server.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

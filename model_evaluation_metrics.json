@@ -1,0 +1,77 @@
+{
+  "dataset": {
+    "total_samples": 59577,
+    "train_samples": 47661,
+    "test_samples": 11916,
+    "train_pct": 80.0,
+    "test_pct": 20.0,
+    "num_classes": 6,
+    "classes": [
+      "Billing & Finance",
+      "Customer Service & Returns",
+      "Human Resources",
+      "Product Support",
+      "Sales & General",
+      "Technical Support"
+    ]
+  },
+  "model_info": {
+    "model_name": "CalibratedClassifierCV(LinearSVC(C=1.0, class_weight=balanced))",
+    "vectorizer": "TfidfVectorizer(ngram_range=(1,2), max_features=75000, sublinear_tf=True)",
+    "feature_count": 75000,
+    "train_time_seconds": 7.61
+  },
+  "performance": {
+    "accuracy": 72.0,
+    "macro_precision": 0.7904,
+    "macro_recall": 0.6795,
+    "macro_f1": 0.7221,
+    "weighted_precision": 0.7277,
+    "weighted_recall": 0.72,
+    "weighted_f1": 0.7171
+  },
+  "class_wise": {
+    "Billing & Finance": {
+      "precision": 0.8798,
+      "recall": 0.7711,
+      "f1_score": 0.8218,
+      "support": 1044
+    },
+    "Customer Service & Returns": {
+      "precision": 0.5848,
+      "recall": 0.5128,
+      "f1_score": 0.5464,
+      "support": 1950
+    },
+    "Human Resources": {
+      "precision": 0.9643,
+      "recall": 0.5704,
+      "f1_score": 0.7168,
+      "support": 284
+    },
+    "Product Support": {
+      "precision": 0.7326,
+      "recall": 0.6487,
+      "f1_score": 0.6881,
+      "support": 2918
+    },
+    "Sales & General": {
+      "precision": 0.8901,
+      "recall": 0.7192,
+      "f1_score": 0.7956,
+      "support": 1250
+    },
+    "Technical Support": {
+      "precision": 0.6909,
+      "recall": 0.8546,
+      "f1_score": 0.7641,
+      "support": 4470
+    }
+  },
+  "comparison_with_previous": {
+    "previous_accuracy": 76.23,
+    "new_accuracy": 72.0,
+    "improvement_percentage_points": -4.23,
+    "note": "Previous 76.23% evaluation suffered from 2,644 duplicate ticket leakages between train and test. Current result is 100% leakage-free, strictly deduplicated, stratified, and scientifically reliable."
+  }
+}

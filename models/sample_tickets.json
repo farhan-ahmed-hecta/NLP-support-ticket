@@ -1,0 +1,859 @@
+[
+  {
+    "id": "TCK-1000",
+    "subject": "Problema de sonido después de la actualización",
+    "body": "El cliente informa que no hay sonido en el Samsung QLED QN90A después de una actualización de firmware. Necesita una resolución urgente.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "es",
+    "answer": "Estimado Cliente, \nPor favor, intente restablecer la configuración de audio del televisor: Menú > Sonido > Configuraciones Expertas > Restablecer Sonido.",
+    "tags": [
+      "Technical Support",
+      "Problem Resolution",
+      "Urgent Issue",
+      "Software Bug"
+    ]
+  },
+  {
+    "id": "TCK-1001",
+    "subject": "nan",
+    "body": "geehrte Kundenservice,<br><br>ich schreibe Ihnen, dass ich Probleme mit dem Datenanalyse-System melden möchte. Leider wird das Investitionsoptimierungsverfahren aufgrund technischer Gründe nicht mehr korrekt funktionieren. Die Ursache liegt most likely in einem Softwarefehler oder einer Datenmismatch.<br><br>Zur Lösung des Problems habe ich den Server neu gestartet und die Datenpipelines nochmals überprüft. Allerdings behält der Fehler bestanden und ich benötige weitere Unterstützung, um das Problem zu lösen.<br><br>Der Fehler führt zu ungenauen Investitionsanregungen, die potenziell signifikante finanzielle Auswirkungen haben könnten. Ich schätze, dass wir sofort mit der Angelegenheit umgehen sollten.<br><br>",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "geehrte [Name],<br><br>ich möchte Sie informieren, dass ich den E-Mail-Bericht über das Problem mit dem Datenanalyse-System erhalten habe und die Dringlichkeit der potentiellen finanziellen Auswirkungen verstehe.<br><br>Zur weiteren Unterstützung schlage ich vor, dass wir telefonisch miteinander sprechen, um den Fall in Detail zu besprechen. Falls es Ihnen passt, könnten wir einen Termin vereinbaren. Als Vorbereitung des Gesprächs wäre es hilfreich, wenn Sie mir die neuesten Fehlermeldungen und Informationen zur Systemsoftware bereitstellen könnten.<br><br>Bitte melden Sie sich, wann ich Sie telefonisch erreichen kann, meine Telefonnummer ist <tel_num>. Ich wäre Ihnen dankbar.",
+    "tags": [
+      "Bug",
+      "Performance",
+      "Software",
+      "Data"
+    ]
+  },
+  {
+    "id": "TCK-1002",
+    "subject": "Datensperrung sofort durch IT-System des Hospitals festgestellt",
+    "body": "Datensperrung erkannt, benötigen Unterstützung",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "Datensperrungen ernst nehmen, mehr Informationen zur Sache benötigen. Sofortige Intervention von Spezialisten, Unterstützung leisten.",
+    "tags": [
+      "IT",
+      "Tech Support",
+      "Outage",
+      "Disruption"
+    ]
+  },
+  {
+    "id": "TCK-1003",
+    "subject": "Brauche Hilfe für MySQL 8",
+    "body": "Suche nach detaillierten Anleitungen zur Verwendung von MySQL 8.0 für Datenanalyse-Projekte. Vielen Dank!",
+    "actual_queue": "Technical Support",
+    "actual_priority": "medium",
+    "actual_type": "Request",
+    "language": "de",
+    "answer": "Wir bieten Anleitungen zur Verwendung von MySQL 8 für Datenanalyse-Projekte an.Für detaillierte Informationen besuchen Sie bitte unsere Website oder rufen Sie uns unter <tel_num> an für weitere Unterstützung. Alternativ können wir eine Besprechung vereinbaren, um spezifische Anforderungen zu besprechen und angepasste Beratung anzubieten. Wir passen den Zeitpunkt an, der Ihnen am besten passt.",
+    "tags": [
+      "Documentation",
+      "IT",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1004",
+    "subject": "Strategies for Safeguarding Patient Information",
+    "body": "Our hospital is keen on establishing strong security procedures to safeguard private patient data within our IT infrastructure. We seek your recommendations on the most effective practices and tools to guarantee the privacy, consistency, and accessibility of patient records. Specifically, we are interested in your advice on encryption methods, control mechanisms for access, and strategies for responding to security breaches.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "medium",
+    "actual_type": "Request",
+    "language": "en",
+    "answer": "Please reach out for comprehensive recommendations",
+    "tags": [
+      "Security",
+      "Privacy",
+      "Documentation",
+      "Maintenance"
+    ]
+  },
+  {
+    "id": "TCK-1005",
+    "subject": "Kritischer Ausfall des POS-Systems gemeldet",
+    "body": "An das Support-Team,\\n\\nWir haben derzeit einen kompletten Ausfall unseres Toast POS-Systems. Diese kritische Störung verhindert, dass wir Bestellungen bearbeiten und Treueprämien einlösen können, was unsere Geschäftsabläufe erheblich beeinträchtigt und zu Umsatzeinbußen führt. Wir benötigen dringend Unterstützung, um dieses Problem zu beheben und weiteren finanziellen Schaden zu verhindern. Wir würden es sehr begrüßen, wenn Sie das System so schnell wie möglich wiederherstellen könnten. Vielen Dank für Ihre umgehende Bearbeitung dieser Angelegenheit.\\n\\nMit freundlichen Grüßen, <name>",
+    "actual_queue": "Product Support",
+    "actual_priority": "critical",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1006",
+    "subject": "Upgraded Security Measures for Hospitals",
+    "body": "Customer Support, please discuss the implementation of enhanced security protocols for data encryption of medical data within hospital infrastructure. These measures are critical for hospitals that handle sensitive patient information. Robust security measures can prevent data breaches and protect patient confidentiality. I would like to request information on the current security protocols in place and plans for upgrading them. Additionally, I would appreciate",
+    "actual_queue": "Product Support",
+    "actual_priority": "high",
+    "actual_type": "Change",
+    "language": "en",
+    "answer": "<name>, we appreciate your concern regarding enhanced security protocols for hospitals. We will provide you with information on the current security measures and plans for upgrades. We also offer resources to ensure compliance with relevant regulations and standards. Please contact <tel_num> for further discussion.",
+    "tags": [
+      "Security",
+      "IT",
+      "Tech Support",
+      "Performance"
+    ]
+  },
+  {
+    "id": "TCK-1007",
+    "subject": "Support for Drupal Commerce Integration",
+    "body": "Would like to receive more details about the integration of Drupal Commerce for project management software as a service (aaS) subscription. Interested in learning about available modules and configuration options. Also, would like to know about potential limitations and compatibility issues. Please provide detailed instructions and documentation to help start the integration process.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Request",
+    "language": "de",
+    "answer": "Providing information on the integration of Drupal Commerce for project management. Please call at a convenient time to discuss available modules, configuration options, and potential limitations or compatibility issues. Detailed instructions and documentation will be provided to assist with the integration process.",
+    "tags": [
+      "Feature",
+      "Documentation",
+      "IT",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1008",
+    "subject": "Anfrage bezüglich umweltfreundlicher Praktiken",
+    "body": "Hallo Support-Team,\\n\\nich schreibe Ihnen bezüglich meiner letzten Lebensmittelbestellung, bei der die kompostierbaren Verpackungskomponenten fehlten. Wäre es möglich, dass Sie mir einige Dokumente über nachhaltige Entscheidungen über das EcoLogix-Portal zukommen lassen? Ich bedanke mich für Ihre Unterstützung, <name>.",
+    "actual_queue": "Product Support",
+    "actual_priority": "low",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1009",
+    "subject": "Support Required for SaaS Outage",
+    "body": "Server malfunctions resulted in project delays",
+    "actual_queue": "Technical Support",
+    "actual_priority": "low",
+    "actual_type": "Incident",
+    "language": "en",
+    "answer": "Dear <name>, we regret the issues caused by the SaaS downtime and server malfunctions which have affected your project timelines. We aim to investigate this matter thoroughly to avoid similar problems in the future. Could you provide us with more information regarding any error messages you encountered and the specific times of the malfunctions? Should a call be necessary, we can arrange a suitable time at your convenience. Please let us know a convenient time to contact you at <tel_num>. We value your patience and cooperation and will address this matter promptly.",
+    "tags": [
+      "Outage",
+      "Technical",
+      "Disruption",
+      "Resolution"
+    ]
+  },
+  {
+    "id": "TCK-1010",
+    "subject": "nan",
+    "body": "Hello Customer Support,\n\nI recently bought a Lenovo IdeaPad 5 from your online shop. Regrettably, I am facing difficulties with charging the unit, as it appears to not retain its charge. Could you please help me fix this issue or advise on how I might proceed with obtaining a replacement?\n\nSincerely,\n<name>\n<acc_num>",
+    "actual_queue": "Product Support",
+    "actual_priority": "low",
+    "actual_type": "Request",
+    "language": "en",
+    "answer": "Hello <name>,\n\nWe are sorry for the trouble you are facing with your Lenovo IdeaPad 5. Kindly try a different charger or power outlet. If the issue continues, please start a return or replacement request via your account using acc_num <acc_num> on our website, or reach out to our support team directly for additional assistance.\n\nSincerely,\nCustomer Support",
+    "tags": [
+      "Product Support",
+      "Technical Support",
+      "Returns and Exchanges",
+      "Hardware Failure"
+    ]
+  },
+  {
+    "id": "TCK-1011",
+    "subject": "Problem with Mesh Network Connection",
+    "body": "Facing connectivity challenges with the Mesh Network, which is impacting digital marketing efforts. The issue might be due to outdated firmware. I've already attempted to reboot and check the device connections, but the problem still exists. I would greatly appreciate your help in resolving this matter at your earliest convenience.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "low",
+    "actual_type": "Incident",
+    "language": "en",
+    "answer": "Acknowledging the issue with Mesh Network Connectivity. To assist further, could you please provide the model number and current firmware version of the Mesh Network devices? It would be helpful to schedule a call at a convenient time for you to troubleshoot the issue. Please let me know a suitable time for the call, or you can contact us directly at <tel_num> to discuss possible solutions, which may include firmware updates or device replacement, and we can proceed with <acc_num>.",
+    "tags": [
+      "Network",
+      "Performance",
+      "IT",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1012",
+    "subject": "Enhancement of Investment Decisions Through Data Analytics",
+    "body": "Hello, I contacted your customer support team to inquire about the data analytics services you offer and how they can help optimize investments. Could you provide more details on the types of services you offer to assist in making informed investment decisions? I would greatly appreciate it if you could elaborate on the types of data analyzed and the expected outcomes. Thank you for your time, and I look forward to hearing back from you soon.",
+    "actual_queue": "Customer Service & Returns",
+    "actual_priority": "medium",
+    "actual_type": "Request",
+    "language": "en",
+    "answer": "Thank you for reaching out to our customer support team regarding data analytics services for investment optimization. We offer a range of services that utilize advanced data analysis to provide insights that can help inform your investment decisions. Our services include portfolio analysis, market trend analysis, and risk assessment. We analyze various types of data, including financial statements, market data, and economic indicators. Our services are designed to help identify opportunities and inform your investment strategy.",
+    "tags": [
+      "Feature",
+      "Feedback",
+      "Documentation",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1013",
+    "subject": "Sicherheitsbedenken an Medikamentensystem-Daten",
+    "body": "Es besteht die Möglichkeit, dass Datensperrungen bei medizinischen Aufzeichnungen des IT-Systems des Krankenhauses gefährdet sind. Möglicherweise liegt dies an veralteter Software, die Schwachstellen enthält. Systemaktualisierungen wurden durchgeführt, Zugangspunkte sind sichergestellt und Sicherheitsprüfungen durchgeführt, jedoch behält das Problem bestanden. Ein dringender Support ist erforderlich, um das Problem zu lösen und weitere Schäden zu verhindern. Bitte geben Sie Anweisungen für die nächsten Schritte an. Vielen Dank für Ihre dringende Unterstützung in dieser Angelegenheit.",
+    "actual_queue": "Customer Service & Returns",
+    "actual_priority": "low",
+    "actual_type": "Problem",
+    "language": "de",
+    "answer": "Rufen Sie die Nummer <tel_num>, um die Datensperrung zu besprechen. Führen Sie die angegebenen Schritte aus, um das Problem zu lösen und weitere Schäden zu verhindern.",
+    "tags": [
+      "Security",
+      "IT",
+      "Tech Support",
+      "Bug"
+    ]
+  },
+  {
+    "id": "TCK-1014",
+    "subject": "Projektdaten unerwartet fehlend",
+    "body": "Unvermittelt verschwanden Projektdaten. Ein Datenbankverbindungsproblem könnte verantwortlich sein. Datenbank wurde neu gestartet, Logs wurden geprüft und Sicherungen bestätigt. Unterstützung zur Wiederherstellung der verlorenen Daten wird benötigt.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "Ich habe Ihre Nachricht über die unvermittelt fehlenden Projektdaten erhalten. Um Ihnen bei der Wiederherstellung behilflich zu sein, benötige ich zusätzliche Informationen über das Datenbankverbindungsproblem und die Sicherungen, die Sie bestätigt haben. Bitte senden Sie die Logs für eine detaillierteprüfung. Ich werde Sie am <tel_num> informieren, um die nächsten Schritte zu besprechen.",
+    "tags": [
+      "Technical",
+      "Bug",
+      "Recovery",
+      "Database"
+    ]
+  },
+  {
+    "id": "TCK-1015",
+    "subject": "IT-System-Fehler-Bericht",
+    "body": "Unerlaubten Zugriff erkannt, Sicherheitsüberprüfung gestartet.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "geehrte/r [Name], \\n\\nSie haben eine Benachrichtigung über ein IT-System-Problem erhalten, das Unerlaubten Zugriff erfasst hat. Um sicherzustellen, dass wir das Problem gründlich untersuchen können, möchten wir bitten, zusätzliche Details zur Situation mitzuteilen, einschließlich des Datums, der Uhrzeit des Vorfalls sowie eventuell vorhandener Fehlermeldungen. \\n\\nDarüber hinaus möchten wir Ihre Kontoinformationen bestätigen, z.B. Ihre Kontonummer [acc_num], um das korrekte Problem zu identifizieren. \\n\\nFalls es notwendig ist, könnten wir telefonisch Kontakt aufnehmen, um weitere Informationen zu erhalten. \\n\\nWir nehmen Sicherheitsunfälle ernst und stehen Ihnen bereit, um Ihnen beizuhelfen.\\n\\nMit freundlichen Grüßen",
+    "tags": [
+      "Bug",
+      "Security",
+      "IT",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1016",
+    "subject": "Assistance with Azure Ruby on Rails Integration",
+    "body": "Seeking guidance on integrating the Azure Ruby on Rails SaaS project",
+    "actual_queue": "Technical Support",
+    "actual_priority": "low",
+    "actual_type": "Request",
+    "language": "en",
+    "answer": "'Name', we appreciate your contact with the service desk concerning the integration of the Azure Ruby on Rails SaaS project. We would be delighted to assist with the integration process. To better understand your requirements, could you please provide us with more details about the project and the specific Azure services you are interested in using? This information will help us provide you with the most accurate and helpful solution. If you need, we can schedule a call at your convenience to discuss further. Please let us know a time that works for you.",
+    "tags": [
+      "Feature",
+      "IT",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1017",
+    "subject": "Anfrage für einen aktualisierten Nachhaltigkeitsbericht",
+    "body": "Sehr geehrte Damen und Herren,\\n\\nwir benötigen aktualisierte Vorlagen für unsere Bio-Zertifizierungsdokumentation, um die Einhaltung der neuesten regulatorischen Standards für unsere jährliche Nachhaltigkeitsberichterstattung zu gewährleisten. Unsere derzeitigen Vorlagen sind veraltet und entsprechen nicht mehr den aktuellen Anforderungen. Wir wären Ihnen sehr dankbar, wenn Sie uns überarbeitete Vorlagen zur Verfügung stellen könnten, die diese neuen Standards erfüllen.\\n\\nDiese Aktualisierung ist entscheidend für die rechtzeitige Fertigstellung unseres bevorstehenden Jahresberichts, der in Kürze fällig ist. Bitte teilen Sie uns den Zeitrahmen für diese Überarbeitung sowie alle weiteren Schritte mit, die wir unternehmen sollten.",
+    "actual_queue": "Sales & General",
+    "actual_priority": "low",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1018",
+    "subject": "Probleme mit verspäteten Benachrichtigungen für Friseurtermine",
+    "body": "Support-Team,\\nich schreibe Ihnen, um ein Problem zu melden. Die Buchungsbestätigungs-E-Mails für Tierpflegedienste über das Blockchain-Datenportal verzögern sich erheblich. Obwohl ich mehrere Sitzungen gebucht habe, kommen die E-Mails erst nach Stunden an. Könnten Sie das bitte untersuchen und das Problem beheben?",
+    "actual_queue": "Product Support",
+    "actual_priority": "low",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1019",
+    "subject": "Unautorisierte Zugriffe auf medizinische Daten registriert",
+    "body": "Es wurde ein unautorisierter Zugriff auf das medizinische Daten-System des Krankenhauses festgestellt. Dieser ist aufgrund eines gestohlenen Mitarbeiterkontos erfolgt. Benutzerpasswörter wurden zurückgesetzt, Firewalldaten aktualisiert und die Sicherheit verbessert.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "Sehr geehrte/r [Name], wir haben Ihre E-Mail zur Information über einen unautorisierten Zugriff auf das medizinische Daten-System des Krankenhauses erhalten. Wir schätzen Ihre schnellen Maßnahmen, insbesondere das zurücksetzen der Benutzerpasswörter, das Aktualisieren der Firewalldaten und die Verbesserung der Sicherheit. Wir untersuchen die Angelegenheit und freuen uns, weitere Informationen über den Zugriff sowie zusätzliche Sicherheitsmaßnahmen zu erhalten. Könnten Sie uns bitte einen detaillierten Bericht über den Vorfall inklusive Datum, Uhrzeit und Beschreibung der Vorfälle zukommen lassen? Falls weitere Informationen erforderlich sind, können Sie uns telefonisch an [Telefonnummer] erreichen. ",
+    "tags": [
+      "Security",
+      "Account",
+      "Virus"
+    ]
+  },
+  {
+    "id": "TCK-1020",
+    "subject": "Problem mit Airflow Inflation festgestellt",
+    "body": "Support Team,\\n\\nich schreibe Ihnen, um ein Problem mit dem Michelin Reifenfüller zu melden. Der Airflow Inflation des Geräts scheint inkonsistent zu sein. Obwohl die manuelle Übersteuerung eine kurzfristige Lösung bietet, kann der Inflator zeitweise den Airflow nicht aufrechterhalten. Dieses Problem trat vor einigen Tagen auf. Das Aufspielen des neuesten Firmware-Patches schien die Sensoren neu zu kalibrieren und das Problem vorübergehend zu beheben, aber es ist seitdem wieder aufgetreten. Ich wäre Ihnen dankbar für Ihre Unterstützung bei der Suche nach einer langfristigen Lösung für dieses Problem.\\n\\nMit freundlichen Grüßen,\\n<name>",
+    "actual_queue": "Product Support",
+    "actual_priority": "medium",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1021",
+    "subject": "Anfrage bezüglich der Bearbeitungszeiten für FOIA-Genehmigungen für Menüs",
+    "body": "Sehr geehrte Damen und Herren,\\n\\nich schreibe Ihnen, um um sofortige Hilfe zu bitten, da wir Verzögerungen bei FOIA-Antworten haben, die nun die Genehmigung von Menüs für die saisonale \\\"Farm-to-Table\\\"-Initiative verhindern. Der Inhaber von GourmetGrove ist besorgt, dass diese Verzögerungen die vorrangige Einführung ernsthaft beeinträchtigen werden. Der FOIA-Antrag wurde am 10. Februar eingereicht, und eine Antwort wurde innerhalb der üblichen 20-Tage-Frist erwartet. Es sind nun 30 Tage vergangen, und wir haben nichts erhalten. Ich habe einen Screenshot beigefügt, der die Bestätigung der Einreichung zeigt, zusammen mit einer Kopie des ursprünglichen Antrags zu Ihrer Information. Ihre Unterstützung bei der Lösung dieser Angelegenheit wäre sehr willkommen.",
+    "actual_queue": "Sales & General",
+    "actual_priority": "high",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1022",
+    "subject": "Wichtig: POS-System derzeit ausgefallen",
+    "body": "Sehr geehrte Support-Mitarbeiter,\\n\\nich melde ein erhebliches Problem mit unserem Point of Sale (POS)-System. Das POS-Terminal ist unerwartet abgestürzt, wodurch In-Store-Transaktionen verhindert werden. Dieser Ausfall wirkt sich negativ auf unsere Checkout-Prozesse aus, und wir können weder Zahlungen verarbeiten noch Werberabatte anwenden. Obwohl das Problem bereits heute Morgen aufgetreten ist, haben erste Schritte zur Fehlerbehebung, wie z. B. der Neustart des Systems, das Problem nicht behoben. Im Anhang finden Sie einen Screenshot mit der Fehlermeldung sowie einen potenziell hilfreichen Log-Auszug.",
+    "actual_queue": "Customer Service & Returns",
+    "actual_priority": "high",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1023",
+    "subject": "Problem mit der Anwendung des CSA-Gutscheins",
+    "body": "Sehr geehrte Damen und Herren,\\n\\nich schreibe Ihnen bezüglich des Fehlens von Gutscheincodes für ImperialFruit CSA-Bestellungen, die über RetailVision aufgegeben wurden. Mir ist aufgefallen, dass die Gutscheincodes nicht korrekt auf diese Abonnements angewendet wurden.\\n\\nKönnten Sie mir bitte detaillierte Anweisungen zur korrekten Anwendung dieser Gutscheincodes auf die entsprechenden Bestellungen geben? Ihre Expertise bei der Lösung dieses Problems wird sehr geschätzt.\\n\\nVielen Dank für Ihre Zeit und Unterstützung in dieser Angelegenheit.\\n\\nMit freundlichen Grüßen, <name>",
+    "actual_queue": "Product Support",
+    "actual_priority": "low",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1024",
+    "subject": "Support for AI Hospital Access Control Issue",
+    "body": "An unauthorized access control check on the hospital IT system has been identified. Potential causes include network vulnerabilities and lost user credentials. Measures such as system backup, password protection, and protocol monitoring have been taken, but the issue persists. Further support is needed to resolve the problem and ensure the security of patient data.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "confirm receipt of the report on the unauthorized access control check on the hospital IT system. appreciate immediate action such as changing passwords, monitoring protocols. understand the issue still persists, further support is required. to better assist, kindly provide more details about the incident, including the date, time when it occurred, and any error messages received. additionally, please share details on the current security measures and any recent system changes. if necessary, arrange a call.",
+    "tags": [
+      "Bug",
+      "Security",
+      "Network",
+      "Performance"
+    ]
+  },
+  {
+    "id": "TCK-1025",
+    "subject": "Anfrage bezüglich Dell Support",
+    "body": "Supportteam,\\n\\nich wende mich an Sie, um archivierte Netzwerkkonfigurationsdaten bezüglich Dell S4048-ON für EcoLogix-Compliance-Berichtszwecke anzufordern.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "very_low",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1026",
+    "subject": "Urgent Configuration Change",
+    "body": "Dear IT Services Customer Support, We urgently need to change the server configuration and update our system in the ongoing IT solutions consulting projects. This is of high priority due to urgent requirements. The product affected is IT Consulting Service. Thank you, <name>.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Change",
+    "language": "en",
+    "answer": "Dear <name>,\n\nThank you for reaching out. We understand the urgency of your request. Our team will prioritize the server configuration changes for your IT Consulting Service project. Please expect an update soon.\n\nBest regards,\nIT Services Customer Support",
+    "tags": [
+      "IT Support",
+      "Urgent Issue",
+      "Service Disruption",
+      "Technical Support"
+    ]
+  },
+  {
+    "id": "TCK-1027",
+    "subject": "Virtuelles Privates Netzwerk (VPN)",
+    "body": "Liebes Support-Team, ich habe sporadische VPN-Verbindungsprobleme, die meinen Zugang zu Smartsheet beeinträchtigen. Mit freundlichen Grüßen, <name>",
+    "actual_queue": "Technical Support",
+    "actual_priority": "medium",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1028",
+    "subject": "Technische Unterstützung: Probleme mit Fehlzeiten",
+    "body": "Es gibt Fehlzeiten infolge der Infrastruktur-Updates",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "Entschuldigung für die Unannehmlichkeiten. Bitte geben Sie weitere Details und den aktuellen Status an, um weitere Unterstützung zu erhalten.",
+    "tags": [
+      "IT",
+      "Tech Support",
+      "Maintenance",
+      "Performance"
+    ]
+  },
+  {
+    "id": "TCK-1029",
+    "subject": "Issues with Inconsistent Reports in Data Analytics Tool",
+    "body": "The data analytics tool is producing inconsistent reports, which may be related to a data feed problem. Despite refreshing the data and resetting the module, the issue remains.",
+    "actual_queue": "Product Support",
+    "actual_priority": "medium",
+    "actual_type": "Incident",
+    "language": "en",
+    "answer": "We are investigating the issue with inconsistent reports in the data analytics tool. To better understand the problem, could you please provide more details on the inconsistent reports you are seeing? We would like to schedule a call to discuss this further. Please let us know a convenient time to call at <tel_num>. This will help us determine the next steps for resolution and address <acc_num>.",
+    "tags": [
+      "Bug",
+      "Performance",
+      "Documentation",
+      "Feedback"
+    ]
+  },
+  {
+    "id": "TCK-1030",
+    "subject": "Dringend: Schwerwiegender Ausfall des IoT-Analysesystems, der Auswirkungen auf Hausrenovierungen hat",
+    "body": "An das Support-Team,\\n\\nich melde einen kritischen Ausfall unseres IoT-Analysesystems EcoLogix, der die Echtzeit-Kohlenstoffverfolgung erheblich beeinträchtigt. Dieser Ausfall verursacht erhebliche Störungen, insbesondere bei der Koordination der Auftragnehmer, und gefährdet die Einhaltung der Genehmigungen. Infolgedessen ist das Hausrenovierungsprojekt nun von erheblichen Verzögerungen bedroht.\\n\\nWir benötigen dringend Ihre Unterstützung, um dieses Problem zu beheben und weitere Komplikationen zu vermeiden. Der Ausfall begann heute Morgen. Als ersten Schritt habe ich einen Neustart des Systems versucht, aber das Problem besteht weiterhin. Ihre sofortige Hilfe bei der Wiederherstellung des Systems und der Wiederaufnahme des Projekts wäre sehr willkommen.",
+    "actual_queue": "Product Support",
+    "actual_priority": "critical",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1031",
+    "subject": "Dringend: Problem mit der Einreichung von Zulassungsunterlagen festgestellt - Einführung eines neuen Nahrungsergänzungsmittels",
+    "body": "Support-Team,\\nich habe eine Unstimmigkeit in den Zulassungsunterlagen für die bevorstehende Einführung unseres natürlichen Nahrungsergänzungsmittels festgestellt. Dieses Problem birgt ein erhebliches Risiko, den Vertrieb zu stoppen. Ich benötige dringend sofortige Unterstützung, um dies zu beheben.",
+    "actual_queue": "Sales & General",
+    "actual_priority": "high",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1032",
+    "subject": "Request for Technical Support: Printer Issue",
+    "body": "Dear Customer Support,\n\nI am writing to request technical assistance with my HP DeskJet 3755 printer. Recently, I noticed that it produces streaks on pages when printing color documents. This issue is affecting the quality of my printouts and my ability to perform tasks efficiently. I have tried basic troubleshooting steps such as cleaning the printhead but the problem persists. Could you please guide me through more advanced troubleshooting methods or arrange for a professional technician to resolve this issue? You may contact me at <tel_num> for further assistance. Thank you.\n\nBest regards,\n<name>",
+    "actual_queue": "Technical Support",
+    "actual_priority": "medium",
+    "actual_type": "Incident",
+    "language": "en",
+    "answer": "Dear <name>,\n\nThank you for reaching out regarding your HP DeskJet 3755 printer issue. To further troubleshoot the streaking problem, you can try aligning the printer cartridges, updating the printer drivers, and ensuring the printer firmware is up-to-date. You may also check for any ink smears on the rollers after opening the printer. If the issue still persists, we can arrange for a professional technician to assist you. We will contact you at <tel_num> to proceed with the next steps. \n\nBest regards,\nCustomer Support Team",
+    "tags": [
+      "Technical Support",
+      "Product Support",
+      "Problem Resolution",
+      "Hardware Failure"
+    ]
+  },
+  {
+    "id": "TCK-1033",
+    "subject": "Issue with Data Analysis System",
+    "body": "Data analysis processing is experiencing delays due to a large volume of data.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "Investigate the issue with the Data Analysis System. To better assist, could you please provide more details about the large volume of data and any error messages you have received? We can schedule a discussion to find possible solutions as soon as possible.",
+    "tags": [
+      "Performance",
+      "Disruption",
+      "IT",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1034",
+    "subject": "Problem mit übermäßigem Ölverbrauch",
+    "body": "Support-Team,\\nich schreibe, um einen hohen Ölverbrauch bei unseren Baufahrzeugen zu melden, die regelmäßig gewartet werden. Insbesondere scheint Castrol EDGE 5W-30 die Ursache des Problems zu sein. Obwohl eine Übergangslösung gefunden wurde, ist innerhalb von 24 Stunden eine dauerhafte Lösung erforderlich. Können Sie helfen, das Problem zu lösen? Das ist wichtig. Vielen Dank, <name>",
+    "actual_queue": "Product Support",
+    "actual_priority": "medium",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1035",
+    "subject": "Anfrage zum Zugriff auf archivierte TurboTax-Dateien",
+    "body": "Sehr geehrte Damen und Herren,\\n\\nich schreibe Ihnen, um Ihre Unterstützung bei der Wiederbeschaffung meiner TurboTax-Dateien aus früheren Jahren zu erbitten. Diese Dokumente sind im GreenGuard Insurance Portal gespeichert, und ich benötige sie für meine persönlichen Finanzunterlagen. Ich wäre Ihnen sehr dankbar, wenn Sie mir helfen könnten, auf diese Dateien zuzugreifen.\\n\\nVielen Dank für Ihre Zeit und Mühe in dieser Angelegenheit.\\n\\nMit freundlichen Grüßen,\\n<name>",
+    "actual_queue": "Billing & Finance",
+    "actual_priority": "very_low",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1036",
+    "subject": "Assistance Required for Crash Problem",
+    "body": "Users are encountering repeated crashes across several interconnected products during peak usage times, potentially due to memory leaks. Restarting services and clearing caches temporarily resolved the problem, but it continues to occur.",
+    "actual_queue": "Product Support",
+    "actual_priority": "medium",
+    "actual_type": "Incident",
+    "language": "en",
+    "answer": "<name> sincerely apologizes for the inconvenience caused by the frequent crashes during high traffic periods across the integrated products. We appreciate your efforts in restarting services and clearing caches to mitigate the issue. To further investigate, could you please share any error messages or logs encountered? Additionally, knowing the specific versions of the products in use would be helpful. If necessary, we can arrange a call at your convenience to discuss the issue in more detail; please let us know a suitable time.",
+    "tags": [
+      "Crash",
+      "Performance",
+      "Bug",
+      "Hardware"
+    ]
+  },
+  {
+    "id": "TCK-1037",
+    "subject": "Anfrage für API-Zugriff für das Playbill-Archivierungsprojekt (Discogs)",
+    "body": "Sehr geehrtes Support-Team,\\n\\nich schreibe Ihnen, um API-Zugriff zu beantragen, um historische Programmheftdaten zu archivieren.",
+    "actual_queue": "Product Support",
+    "actual_priority": "very_low",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1038",
+    "subject": "Update Digital Marketing Strategies",
+    "body": "We request an update on digital marketing strategies to enhance brand growth and optimize services.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Change",
+    "language": "en",
+    "answer": "We appreciate your interest in updating digital marketing strategies to enhance brand growth and optimize services. To better understand your requirements, we need information on your current digital marketing efforts and specific areas where you would like improvements. Could you please provide details on your goals and objectives? We will review your request and provide a personalized plan to enhance your digital marketing presence. Please let us know your convenience for a call to discuss this further.",
+    "tags": [
+      "Feedback",
+      "Sales",
+      "IT",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1039",
+    "subject": "Cobrado a mais pela assinatura do Microsoft Office 365",
+    "body": "Caro Time de Suporte ao Cliente,\n\nEspero que esta mensagem o encontre bem. Estou escrevendo para chamar sua atenção para um problema relacionado à minha cobrança recente pela assinatura mensal do Microsoft Office 365 sob o número da conta <acc_num>. Notei que fui cobrado a mais em meu último extrato de cobrança. Esperava ser cobrado pelo valor habitual, mas parece que um valor maior foi deduzido. Você poderia investigar e providenciar um reembolso imediato pela cobrança em excesso? Sua atenção rápida a este assunto é muito apreciada.\n\nObrigado pelo seu apoio.\n\nAtenciosamente,\n\n<name>",
+    "actual_queue": "Billing & Finance",
+    "actual_priority": "high",
+    "actual_type": "Problem",
+    "language": "pt",
+    "answer": "Caro <name>,\n\nObrigado por entrar em contato conosco a respeito do seu problema com a assinatura do Microsoft Office 365. Pedimos desculpas por qualquer inconveniente causado pela cobrança a mais em sua conta <acc_num>. Vamos investigar este assunto prontamente e trabalhar para fornecer um reembolso pelo valor em excesso cobrado. Você pode esperar uma resposta nossa em breve com uma atualização.\n\nObrigado pela sua paciência e compreensão.\n\nAtenciosamente,\nEquipe de Suporte ao Cliente",
+    "tags": [
+      "Billing Issue",
+      "Customer Service",
+      "Refund Request",
+      "Payment Processing"
+    ]
+  },
+  {
+    "id": "TCK-1040",
+    "subject": "Probleme mit dem Zugriff auf die Integrations-API",
+    "body": "Support-Team, wir haben sporadische API-Zugriffsfehler während der DevOps-Integration. Eine temporäre Lösung ist derzeit eingerichtet.",
+    "actual_queue": "Sales & General",
+    "actual_priority": "medium",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1041",
+    "subject": "Urgent: Potentially Reported Data Breach in Medication Log System",
+    "body": "A potential data breach was identified, possibly due to outdated security protocols. Access logs have been reviewed and passwords have been updated.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "medium",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "Acknowledged the report of a potential data breach in the Medication Log System. Immediate actions are being taken to investigate the systems and ensure security. Further updates will be provided as more information becomes available.",
+    "tags": [
+      "Security",
+      "Alert",
+      "IT",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1042",
+    "subject": "Regulatory Adherence",
+    "body": "Dear Customer Support Team,\\n\\nI am formally requesting the execution of extensive security compliance modifications across integrated healthcare systems. The infrastructure includes Electronic Medical Records (EMR), Picture Archiving and Communication Systems (PACS), telehealth services, IoT medical gadgets, and related supporting technologies. Securing sensitive patient information with utmost privacy is critical, necessitating that our systems meet the highest regulatory standards.\\n\\nSpecifically, I am seeking continuous compliance.",
+    "actual_queue": "Customer Service & Returns",
+    "actual_priority": "low",
+    "actual_type": "Change",
+    "language": "en",
+    "answer": "We appreciate your detailed inquiry concerning security compliance improvements for healthcare systems such as EMR, PACS, telehealth platforms, and IoT medical devices. To move forward, we advise initiating a comprehensive security compliance review of your current infrastructure to identify any gaps relative to standards like HIPAA, GDPR, and ISO 27001. Based on the review results, we will recommend a customized implementation strategy that includes encryption upgrades, access management, audit trail mechanisms, and risk mitigation measures.",
+    "tags": [
+      "Security",
+      "IT",
+      "Tech Support",
+      "Documentation"
+    ]
+  },
+  {
+    "id": "TCK-1043",
+    "subject": "Synchronisation von Projektdaten auf verschiedenen ClickUp-Plattformen",
+    "body": "Guten Tag Kundensupport, wir haben Schwierigkeiten bei der Synchronisation von Projektdaten auf verschiedenen ClickUp-Plattformen. Es scheint, dass das Problem mit der Kompatibilität von Redis 6.2 zusammenhängt. Wir haben bereits versucht, die Anwendung neu zu starten und den Cache zu löschen, aber das Problem behält sich bestehen. Wir haben mehrere Schritte zur Fehlerbehebung unternommen, aber das Problem bleibt ungelöst. Könnten Sie bitte helfen, das Problem zu beheben? Ihre Unterstützung bei der Erhaltung der Synchronisation von Projektdaten auf verschiedenen Plattformen würden wir sehr schätzen. Vielen Dank für Ihre Unterstützung. Wir freuen uns auf Ihre Rückmeldung.",
+    "actual_queue": "Customer Service & Returns",
+    "actual_priority": "medium",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "Für eine genaue Analyse des ClickUp-Synchronisationsproblems rufen Sie bitte dienummer auf und besprechen wir weitere Schritte zur Fehlerbehebung.",
+    "tags": [
+      "Bug",
+      "Performance",
+      "IT",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1044",
+    "subject": "Assistance",
+    "body": "I am writing to report a critical error that occurred during the night, where our systems experienced data loss and crashes. We suspect this might be due to compatibility issues or hardware failures. So far, we have tried restarting the systems and checking for updates, but the problem persists. Could you please support us in resolving this issue as soon as possible? We would greatly appreciate any guidance on how to address or resolve this problem. Please inform us if you need additional information to proceed. We look forward to hearing from you and finding a solution to this problem.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "In response to your email regarding a critical error where systems experienced data loss and crashes, I regret to inform you that restarting and updating the systems did not resolve the issue. To better assist you, could you please provide more details about the error messages and the specific steps you have taken so far? Additionally, it would be helpful to know the specifications of your hardware and software configurations. I will review this information and provide you with guidance on how to address the problem or potential solutions. If necessary, I can also arrange a call to discuss further details. Please let me know a convenient time to call you at the number <tel_num>, associated with your account <acc_num>.",
+    "tags": [
+      "Crash",
+      "Hardware",
+      "Incident",
+      "Resolution"
+    ]
+  },
+  {
+    "id": "TCK-1045",
+    "subject": "Problem beim Zugriff auf das Recruiter Portal",
+    "body": "Sehr geehrte Damen und Herren vom Support,\\n\\nwir haben ein kritisches Problem: Das Indeed Recruiter Portal ist derzeit nicht verfügbar. Dieser Ausfall verhindert, dass PrimeRetail Outlets neue Stellenanzeigen schalten und bestehende Bewerbungen verwalten können, was zu erheblichen Verzögerungen in unserem Rekrutierungsprozess führt. Wir benötigen sofortige Unterstützung, um die Funktionalität wiederherzustellen.",
+    "actual_queue": "Human Resources",
+    "actual_priority": "high",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1046",
+    "subject": "Dringend: Probleme mit der Lizenzaktivierung",
+    "body": "Sehr geehrte Damen und Herren,\\n\\nwir haben derzeit ein erhebliches Problem mit unserem Lizenzsystem für akademische Texte, das zu einem kompletten Ausfall führt. Die Benutzer können nicht auf digitale akademische Texte zugreifen, was für die <AI skill gap analysis> von entscheidender Bedeutung ist. Darüber hinaus werden dadurch <corporate microlearning modules> unterbrochen. Ich habe versucht, das Problem zu beheben, konnte es aber nicht lösen.\\n\\nDiese Angelegenheit bedarf Ihrer dringenden Aufmerksamkeit und einer schnellstmöglichen Lösung, da sie sich derzeit auf laufende Schulungsaktivitäten auswirkt. Jede Unterstützung, die Sie bei der Lösung dieses Problems leisten können, wird sehr geschätzt.",
+    "actual_queue": "Product Support",
+    "actual_priority": "high",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1047",
+    "subject": "Healthcare Provider Encounters Sporadic Connectivity Problems",
+    "body": "Devices have been rebooted and firmware has been upgraded, but the issue persists.",
+    "actual_queue": "Product Support",
+    "actual_priority": "low",
+    "actual_type": "Incident",
+    "language": "en",
+    "answer": "We are currently examining the ongoing intermittent connectivity issues despite device restarts and firmware updates. Please contact <tel_num> to discuss potential solutions and next steps to resolve the problem with the healthcare provider account <acc_num>.",
+    "tags": [
+      "Network",
+      "Hardware",
+      "Connectivity",
+      "Firmware"
+    ]
+  },
+  {
+    "id": "TCK-1048",
+    "subject": "Digital marketing agency's strategies are gradually underperforming",
+    "body": "The initial troubleshooting steps involved verifying configurations and updating software; however, the issues with Ansible and PrestaShop continue. Despite these efforts, problems remain unresolved.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Problem",
+    "language": "en",
+    "answer": "Investigating the underperformance of the marketing agency's digital strategies. Since the initial troubleshooting did not resolve the issue, I would like to arrange a call to discuss the matter further. Please inform me of a convenient time for a call at <tel_num> to delve into the issues with Ansible and PrestaShop and determine the appropriate next steps <acc_num>.",
+    "tags": [
+      "Performance",
+      "Bug",
+      "Software",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "id": "TCK-1049",
+    "subject": "Fehlschlag der digitalen Marketingstrategie und Mangel an Markenwachstum",
+    "body": "Die digitale Marketingstrategie hat das erwartete Markenwachstum nicht geschaffen. Die schlechte Identifizierung der Zielgruppe könnte die Ursache sein. Die Werbung wurde die Inhalte angepasst, jedoch wurden keine erwarteten Ergebnisse beobachtet.",
+    "actual_queue": "Customer Service & Returns",
+    "actual_priority": "low",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "Ich verstehe Ihre Sorgen bezüglich des Fehlschlags der digitalen Marketingstrategie und des Mangelns an Markenwachstum. Ich würde gerne mehr Informationen über die Zielgruppe erhalten und über die bislang vorgenommenen Anpassungen. Lassen Sie uns genauer darüber besprechen, und ich wäre bereit, ein Telefonat zu vereinbaren, um mögliche Lösungen für das Problem zu diskutieren.",
+    "tags": [
+      "Feedback",
+      "Feature",
+      "Performance",
+      "Documentation"
+    ]
+  },
+  {
+    "id": "TCK-1050",
+    "subject": "Dringend: Serverausfall verursacht Störungen",
+    "body": "Sehr geehrte Support-Mitarbeiter,\\n\\nich schreibe Ihnen, um anhaltende und häufige Verbindungsabbrüche während Mehrspieler-Sitzungen auf BoardGameArena zu melden. Diese sind auf Serverausfälle mit hoher Priorität zurückzuführen. Dieses Problem beeinträchtigt das Gameplay erheblich, und eine schnelle Lösung ist entscheidend, um die Stabilität wiederherzustellen. Ich bin wiederholt auf dieses Problem gestoßen, was zu verlorenem Fortschritt und erheblicher Frustration geführt hat. Ich wäre Ihnen sehr dankbar, wenn Sie diese Angelegenheit untersuchen und so schnell wie möglich beheben könnten.\\n\\nVielen Dank für Ihre prompte Aufmerksamkeit in dieser Angelegenheit.\\n\\nMit freundlichen Grüßen,\\n<name>",
+    "actual_queue": "Product Support",
+    "actual_priority": "high",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1051",
+    "subject": "Sicherheitsprotokolle für Krankenhausaufträge",
+    "body": "Setzen Sie verstärkte Sicherheitsmaßnahmen für Datenspeicherung und Zugriff ein, um spezifisierte Krankenhausaufträge vor Datenverletzungen zu schützen und die Vertraulichkeit zu gewährleisten.",
+    "actual_queue": "Product Support",
+    "actual_priority": "high",
+    "actual_type": "Change",
+    "language": "de",
+    "answer": "Verwenden Sie verstärkte Sicherheitsprotokolle für Datenspeicherung und Zugriff, um spezifisierte Krankenhausaufträge vor Datenverletzungen zu schützen und die Vertraulichkeit zu gewährleisten. Details werden in der folgenden E-Mail bereitgestellt.",
+    "tags": [
+      "Security",
+      "Data Breach",
+      "Confidentiality",
+      "Hospital Orders"
+    ]
+  },
+  {
+    "id": "TCK-1052",
+    "subject": "Dringend: Problem beim Zugriff auf gekauftes E-Book aufgrund von DRM-Fehler",
+    "body": "Sehr geehrte Damen und Herren vom Support,\\n\\nich schreibe Ihnen, um ein dringendes Problem zu melden. Ich kann auf ein kürzlich erworbenes E-Book nicht zugreifen, da der DRM-Zugriff fehlschlägt. Ich habe mehrmals erfolglos versucht, Zugriff zu erhalten. Dieses Problem ist dringend, da es sowohl zu Umsatzverlusten als auch zu Kundenunzufriedenheit führt. Ich benötige so schnell wie möglich eine Lösung. Ich verwende Windows 10 als Betriebssystem und den Chrome-Browser.\\n\\nKönnten Sie mir bitte bei der Lösung dieses Problems helfen?\\n\\nVielen Dank,\\n<name>",
+    "actual_queue": "Product Support",
+    "actual_priority": "critical",
+    "actual_type": "nan",
+    "language": "de",
+    "answer": "nan",
+    "tags": []
+  },
+  {
+    "id": "TCK-1053",
+    "subject": "nan",
+    "body": "The team has run into problems with data visualizations in PowerPoint 2021 following recent updates. The issues might be due to incompatible software versions or data source errors. Attempts to restart the applications and reinstall PowerPoint were unsuccessful. Assistance is needed to resolve the issue.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "en",
+    "answer": "Could you assist with resolving the data visualization issue in PowerPoint 2021? Please provide any error messages and details about the data source you are using. This will help in troubleshooting.",
+    "tags": [
+      "Bug",
+      "Performance",
+      "IT",
+      "Tech Support"
+    ]
+  },
+  {
+    "id": "TCK-1054",
+    "subject": "Data Analytics Platform Crashed Unexpectedly",
+    "body": "Hello Customer Support, We are experiencing an issue with our data analytics platform. It crashed unexpectedly, which might be related to a high volume of data. We have attempted to restart the servers and verify network connections, yet the problem remains unresolved. The platform failed abruptly, and we are unable to access any error logs. We are worried about potential data loss and would appreciate your prompt assistance to resolve this matter. Kindly inform us of the necessary actions. Thank you for your support.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "en",
+    "answer": "We are looking into the problem with your data analytics platform. To provide better assistance, could you please share more information about the high data volume and the specific time of the crash? I will call you at <tel_num> to discuss further and set a resolution time if required.",
+    "tags": [
+      "Crash",
+      "Platform",
+      "Technical",
+      "Network"
+    ]
+  },
+  {
+    "id": "TCK-1055",
+    "subject": "Unterstützung für SEO-Optimierung von WordPress-Websites",
+    "body": "Wir sind bereit, Ihnen bei der Optimierung der SEO-Fähigkeiten Ihrer WordPress-Website zu helfen. Wir bieten verschiedene digitale Strategien und Tools an, um die Suchmaschinenrangstellung zu verbessern. Bitte teilen Sie uns gerne weitere Details mit, wie beispielsweise die Schlüsselwortforschung, die on-page-Optimierung und den Link-Bau. Sollten Sie weitere Ressourcen oder Werkzeuge benötigen, um Ihre SEO-Bemühungen zu unterstützen, melden Sie sich gerne bei uns. Wir freuen uns darauf, mit Ihnen über die besten Praktiken zu diskutieren und bei der Verbesserung der Sichtbarkeit Ihrer Website zu helfen, um mehr Verkehr auf Ihre Website zu lenken. Bitte stellen Sie uns zur gegebenen Zeit die Website-URL zur Verfügung, damit wir genau die richtigen Maßnahmen ergreifen können.",
+    "actual_queue": "Customer Service & Returns",
+    "actual_priority": "medium",
+    "actual_type": "Request",
+    "language": "de",
+    "answer": "Wir freuen uns, Ihnen bei der Optimierung der SEO-Fähigkeiten Ihrer WordPress-Website zu helfen. Wir bieten eine Vielzahl von digitalen Strategien und Tools an, um die Suchmaschinenrangstellung zu verbessern. Bitte teilen Sie uns die Website-URL zu einem geeigneten Zeitpunkt mit, damit wir kontaktiert werden können, um die besten Praktiken für Schlüsselwortforschung, on-page-Optimierung und den Link-Bau zu besprechen.",
+    "tags": [
+      "Feedback",
+      "Feature",
+      "Documentation",
+      "IT"
+    ]
+  },
+  {
+    "id": "TCK-1056",
+    "subject": "Benötigte Unterstützung bei Hadoop-Integration",
+    "body": "Sehr geehrter Kundenservice, ich bitte um umfassende Dokumentationen und bewährte Verfahren für die Integration des Apache Hadoop 3.2.1 NAS-Systems. Könnten Sie bitte Schritt-für-Schritt-Anleitungen und Richtlinien für eine erfolgreiche Implementierung bereitstellen? Zusätzliche Ressourcen und Empfehlungen wären ebenfalls willkommen, um einen reibungslosen Einrichtungsprozess zu gewährleisten. Vielen Dank im Voraus für Ihre Unterstützung. Ich freue mich auf Ihre Rückmeldung.",
+    "actual_queue": "Customer Service & Returns",
+    "actual_priority": "medium",
+    "actual_type": "Request",
+    "language": "de",
+    "answer": "Sehr geehrter <name>, vielen Dank, dass Sie den Support wegen der Integration des Apache Hadoop 3.2.1 NAS-Systems kontaktiert haben. Gerne stellen wir Ihnen detaillierte Dokumentationen und bewährte Verfahren für eine erfolgreiche Implementierung zur Verfügung. Unser Standardhandbuch enthält Schritt-für-Schritt-Anleitungen und Richtlinien, um einen reibungslosen Einrichtungsprozess sicherzustellen. Um den Support besser auf Ihre spezifischen Bedürfnisse abzustimmen, bitten wir Sie, weitere Details zur NAS-Systemkonfiguration und Ihren Zielen bei der Hadoop-Integration mitzuteilen. Falls Sie eine direktere Unterstützung bevorzugen, vereinbaren wir gern einen Termin für ein Telefonat zu Ihrer Bequemlichkeit.",
+    "tags": [
+      "IT",
+      "Tech Support",
+      "Documentation",
+      "Integration"
+    ]
+  },
+  {
+    "id": "TCK-1057",
+    "subject": "Hospital-Data Breach",
+    "body": "An unauthorized access trigger occurred within the Hospital's IT systems, indicating a possible data breach due to outdated software and inadequate security settings.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Incident",
+    "language": "de",
+    "answer": "Dear <name>, we take the possible data breach in the Hospital's IT system seriously and request immediate investigation of the matter. To assist with the investigation, please provide more details about the unauthorized access trigger, such as the date and time it occurred, and any additional relevant information. You can call <tel_num> to discuss further questions. Would you prefer to schedule a specific time for this? Please inform us of any concerns or questions regarding your <acc_num> Hospital-IT system.",
+    "tags": [
+      "Security",
+      "Bug",
+      "Performance",
+      "Virus"
+    ]
+  },
+  {
+    "id": "TCK-1058",
+    "subject": "Urgent issue with Dell XPS 13 keyboard",
+    "body": "Dear Tech Online Store Customer Support Team, I hope this message finds you well. I'm writing to express my concern regarding the keyboard issues I'm experiencing with the Dell XPS 13 9310, which I purchased from your store. The keyboard has become completely unresponsive, greatly impacting my productivity and disrupting my daily tasks. This issue is high-priority for me, and I need assistance to resolve it promptly. Could you please advise on the next steps or provide a solution as soon as possible? I would appreciate your immediate attention to this matter. Thank you for your understanding. Best regards, <name>",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Problem",
+    "language": "en",
+    "answer": "Dear <name>,\n\nThank you for reaching out to us regarding the keyboard issue with your Dell XPS 13 9310. We understand the inconvenience this has caused and are committed to resolving it swiftly.\n\nPlease try following these initial steps: \n1. Perform a hard shutdown by holding the power button for 10 seconds, then restart your laptop.\n2. Check for any available keyboard or system updates via the Dell SupportAssist tool.\n\nIf the problem persists, consider the following actions:\n- Visit our store with your laptop for a technician to assess the issue.\n- Contact Dell customer support directly to utilize warranty services, if applicable.\n\nPlease let us know how you wish to proceed or if you need further guidance. We are here to assist you.\n\nBest regards,\nTech Online Store Customer Support Team",
+    "tags": [
+      "Technical Support",
+      "Hardware Failure",
+      "Urgent Issue",
+      "Product Support"
+    ]
+  },
+  {
+    "id": "TCK-1059",
+    "subject": "Problem with Cassandra",
+    "body": "Details: Project data was lost during the upgrade to Cassandra 4.0. Cause: Incompatible Smart-Tracker integration led to a system crash. Actions Taken: Restarted laptop, reinstalled Smart-Tracker, contacted Sophos support.",
+    "actual_queue": "Technical Support",
+    "actual_priority": "high",
+    "actual_type": "Problem",
+    "language": "en",
+    "answer": "I apologize for the issues you're encountering with Cassandra post-update. The incompatibility with Smart-Tracker appears to be the root cause. Given that you've already attempted to restart your laptop and reinstall Smart-Tracker, I'd like to delve deeper into the situation. Could you please share the specific error message you received and the sequence of actions leading up to the crash? Additionally, I need your account details to proceed with the investigation, so could you provide your account number for assistance?",
+    "tags": [
+      "Technical",
+      "Crash",
+      "Outage",
+      "Bug"
+    ]
+  }
+]

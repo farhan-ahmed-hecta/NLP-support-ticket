@@ -1,0 +1,8 @@
+# Core NLP and Machine Learning Dependencies
+scikit-learn>=1.4.0
+joblib>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optional: Gradio interface (for running Hugging Face app locally)
+gradio>=4.0.0

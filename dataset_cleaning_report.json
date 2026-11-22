@@ -1,0 +1,45 @@
+{
+  "original_samples": 67890,
+  "samples_removed_total": 8313,
+  "empty_invalid_records_removed": 8,
+  "duplicates_removed": 8305,
+  "final_clean_samples": 59577,
+  "train_samples": 47661,
+  "test_samples": 11916,
+  "train_percentage": 80.0,
+  "test_percentage": 20.0,
+  "number_of_classes": 6,
+  "class_distribution_total": {
+    "Technical Support": 22348,
+    "Product Support": 14588,
+    "Customer Service & Returns": 9748,
+    "Sales & General": 6249,
+    "Billing & Finance": 5223,
+    "Human Resources": 1421
+  },
+  "class_distribution_percentages": {
+    "Technical Support": 37.51,
+    "Product Support": 24.49,
+    "Customer Service & Returns": 16.36,
+    "Sales & General": 10.49,
+    "Billing & Finance": 8.77,
+    "Human Resources": 2.39
+  },
+  "class_distribution_train": {
+    "Technical Support": 17878,
+    "Product Support": 11670,
+    "Customer Service & Returns": 7798,
+    "Sales & General": 4999,
+    "Billing & Finance": 4179,
+    "Human Resources": 1137
+  },
+  "class_distribution_test": {
+    "Technical Support": 4470,
+    "Product Support": 2918,
+    "Customer Service & Returns": 1950,
+    "Sales & General": 1250,
+    "Billing & Finance": 1044,
+    "Human Resources": 284
+  },
+  "leakage_overlap_count": 0
+}
